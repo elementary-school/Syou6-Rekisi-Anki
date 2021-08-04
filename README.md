@@ -5,6 +5,6 @@
   <a href="https://elementary-school.github.io">Web site</a> |
   <a href="https://github.com/elementary-school">GitHub</a>
  </b>
-<p>&nbsp;</p>
-<p>二次配布をしなければ自由にどうぞ。</p>
+&nbsp;
+二次配布をしなければ自由にどうぞ。
 </p>
